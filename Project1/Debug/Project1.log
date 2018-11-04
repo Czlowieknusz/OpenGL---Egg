@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\jan woźniak\source\repos\project1\project1\main.cpp(30): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jan woźniak\source\repos\project1\project1\main.cpp(58): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\Jan Woźniak\source\repos\Project1\Debug\Project1.exe
